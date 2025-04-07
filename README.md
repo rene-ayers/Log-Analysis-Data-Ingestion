@@ -28,7 +28,7 @@ This Python script analyzes system logs to identify potential security incidents
 ## How to Run
 
 1. Make sure the `auth.log`, `firewall.log`, and `ids.log` files are in the same directory as the script.
-2. Run the script using Python:
+2. Run the script using Python.
 
 ```bash
 python Log_Analysis_Data_Ingestion.py
